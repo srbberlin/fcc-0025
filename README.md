@@ -1,2 +1,2 @@
 # fcc-0025
-Treemap Diagram
+FreeCodeCamp: Treemap Diagram
