@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#tooltip {
+    visibility: hidden;
+    border: 1px solid black;
+    position: absolute;
+    width: 200px;
+    background-color: darkgrey;
+    color: maroon;
+    padding: 15px;
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
+
+.h2 { font-size: 1.5em}
+.h4 { font-size: 0.8em}
+.h5 { font-size: 0.6em}
+
+g.tileGroup text {
+    fill: black;
+}
+
+.legend-item {
+    width: 20px;
+    height: 20px;
+}
